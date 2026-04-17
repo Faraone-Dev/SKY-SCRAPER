@@ -1,6 +1,6 @@
 # 🏗️ SKY-SCRAPER
 
-## The World's Most Advanced Smart Contract Security Scanner
+## Advanced Smart Contract Security Engine
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
