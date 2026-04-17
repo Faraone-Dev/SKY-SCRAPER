@@ -2,6 +2,8 @@
 
 ## Advanced Smart Contract Security Engine
 
+> *Internal security tool — actively used to harden smart contracts before mainnet deployment. Source code is proprietary; this repo contains documentation, screenshots, and training data.*
+
 ```
 ╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
 ║                                                                                               ║
